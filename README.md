@@ -31,5 +31,7 @@ Running the Application
 3) Run the script:
    streamlit run Streamlit_app.py
 
+<img width="1500" alt="Screenshot 2024-10-29 at 9 33 35 AM" src="https://github.com/user-attachments/assets/51c7949f-8776-472f-93a8-7fc0898b4384">
+
 
    
